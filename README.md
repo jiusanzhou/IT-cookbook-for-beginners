@@ -65,7 +65,7 @@
 1. 浏览器：Chrome、Firefox
 2. 文本编辑器：Sublime Text、Visual Studio、Notepad++
 3. 输入法：RIME
-4. 梯子：*ShadowSocks(R) 配合Free的共享节点*,**仅做参考，没有亲身试用**
+4. 梯子：*ShadowSocks(R) 配合Free的共享节点*,**推荐自行搭建服务**
 5. HTTP(s) 抓包：Fiddler、Burp suite、Charles
 6. 压缩解压：7-zip
 7. 文本书籍相关：Calibre、Pandoc
@@ -89,7 +89,8 @@
 1. 网络：TCP/IP、ip地址、域名、DNS、URI/URL、HTTP协议、WebSocket、抓包、浏览器的调试
 2. 代码：基本的JavaScript、HTML、CSS
 3. 文本处理：正则、CSS Selector
-4. 搜索引擎规则：如，`site:`、`+`、`type`等，图片搜索等
+4. 搜索引擎规则：如，`site:`、`+`、`type`等（具体查看下条的`搜索技巧`），图片搜索等
+5. 素养：[提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)、[搜索技巧](http://www.dianbo.org/9238/stone/google40.htm/)
 
 
 
@@ -129,7 +130,100 @@
 
 ## 技术篇
 
+[Github上随便找的书单](https://github.com/EZLippi/practical-programming-books)
 
+
+
+### 基础常识
+
+1. 操作系统
+   1. 进程、CPU、内存、端口、文件描述符、环境变量、权限、文件系统
+   2. Shell/Batch file
+   3. 路由、网关、代理、网卡信息
+   4. 编译器使用
+   5. 常用命令：如，Vim、curl、wget、ping、nslookup、lsof、top、ps
+2. 一门语言，与你即将使用的相关（HTML/CSS这种不算）
+   1. 基本语法
+   2. 找个实操的例子，一步步实现
+3. 基本技能（可只借助Google）
+   1. 搜索：Google、Github
+   2. 版本控制：Git、SVN
+   3. 代码编辑器：Editor、IDE
+4. 英语
+   1. 常用变量的术语、变量名
+   2. 看懂文档、注释
+
+
+
+> 懂得了基础常识，其实可以去学习写代码，但是很机械化，有点像盲人摸象的组装工，不能融汇贯通；你应该立即需要知其所以然，务必花时间补充自己的基础知识。
+
+### 基础知识
+
+除去基本的CS课程书外，推荐书籍：
+
+1. 《Linux 内核设计的艺术》
+2. 《UNIX编程手册》
+3. 《编程珠玑》
+4. 《数据结构与算法分析》
+
+
+
+---
+
+
+
+1. 计算机系统原理
+   1. 启动流程
+   2. 内存的分配
+   3. 编译器的工作
+   4. CPU的输入输出线路
+2. 数据结构与算法
+   1. 空间、时间
+   2. 栈、队列、链表、树、堆
+   3. 排序、增改
+3. 网络协议
+   1. IP
+   2. UDP
+   3. TCP
+   4. HTTP(S)
+   5. WebSocket
+4. 编程规范
+5. 数据库
+   1. SQL、NoSQL、KV
+   2. 时序数据库
+
+> 这里可以才真正是写代码，因为知道代码的行为轨迹，哪些该写哪些不该写
+
+### 进阶内容
+
+
+
+推荐阅读
+
+1. [the 12 factor app](https://12factor.net/)
+2. [SRE](https://landing.google.com/sre/book/index.html)
+
+---
+
+
+
+1. 高并发
+   1. 缓存
+   2. 分离
+   3. 算法优化
+2. 部署
+   1. 持续集成
+   2. 持续部署
+   3. 持续交付
+3. 分布式
+   1. 服务治理
+   2. 服务发现
+   3. 分布式锁
+   4. 共识算法
+   5. 高可用、高并发
+   6. 微服务
+
+> 这里就需要知道为什么写代码、怎么让写的代码产生更高的效益，而不再只是停留在怎么写代码上。
 
 ### 未来方向
 
