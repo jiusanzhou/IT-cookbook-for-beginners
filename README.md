@@ -39,6 +39,10 @@
 1. 《黑客与画家》
 
 
+---
+
+
+
 
 1. 视野决定格局，一定要涉猎广泛，知识才能用得融会贯通。
 2. 不把自身的技术局限在某个点上，什么时候都可以从零开始新的技术，技术的圈子更新迭代很快，需要持续的学习。笔者听过很多：“我写Python的，这个不会”、“我没做过逆向”，这都是不推荐思维方式。Steve Jobs说：Stay hungry, stay foolish。
@@ -108,15 +112,16 @@
 
 问题2：
 
-1. Google搜索`**工商大学`得到Host`hzic.edu.cn`
+1. Google搜索`**工商大学`得到Host`----.edu.cn`
 2. Google搜索`site:hzic.edu.cn 张 * 婷` ![搜索结果](./assets/images/google-search-site.PNG)
-3. 基本上每条结果都比较价值，得到最终第一个信息**社保1101班**![结果](./assets/images/google-search-site-result.PNG)
+3. 基本上每条结果都比较价值，从最后一条结果中得到第一个有价值的信息：**社保1101班**![结果](./assets/images/google-search-site-result.PNG)
 
 
 
 问题3：
 
-1. ​
+1. 右键，`查看网页源码`
+2. `Ctrl+F`定位到想要复制的内容
 
 
 
